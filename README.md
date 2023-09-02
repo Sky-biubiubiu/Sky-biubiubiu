@@ -1,4 +1,4 @@
-👨‍💻 hi, This is Skybiubiubiu
+👨‍💻 hi! This is Skybiubiubiu
 
 😺 I am learning and practicing Vue
 
