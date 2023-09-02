@@ -1,1 +1,7 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sky-biubiubiu&show_icons=true&bg_color=00000000)
+👨‍💻 hi, This is Skybiubiubiu
+
+😺 I am learning and practicing Vue
+
+🌱 My blog address is https://blog.csdn.net/Skybububu
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sky-biubiubiu&layout=compact)
